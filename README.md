@@ -32,3 +32,14 @@ Author: Paulo Vila Nova
   },
 
 ```
+
+
+* Google Material Symbols
+
+<a href="https://fonts.google.com/icons">Link to Google Material</a>
+
+- In functions.php set the style:
+
+```
+wp_enqueue_style('google-material-symbols', '//fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&display=swap');
+```
