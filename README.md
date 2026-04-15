@@ -1,0 +1,1 @@
+# Wordpress com configuracao do TailwindCss v4
